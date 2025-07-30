@@ -1,0 +1,7 @@
+/Users/ibacher/Documents/digi/drc/openmrs-module-drc/api/src/main/java/org/openmrs/module/drc/DRCActivator.java
+/Users/ibacher/Documents/digi/drc/openmrs-module-drc/api/src/main/java/org/openmrs/module/drc/DRCConstants.java
+/Users/ibacher/Documents/digi/drc/openmrs-module-drc/api/src/main/java/org/openmrs/module/drc/initializers/BaseDrcInitializer.java
+/Users/ibacher/Documents/digi/drc/openmrs-module-drc/api/src/main/java/org/openmrs/module/drc/initializers/DrcInitializer.java
+/Users/ibacher/Documents/digi/drc/openmrs-module-drc/api/src/main/java/org/openmrs/module/drc/initializers/RunnableDrcInitializer.java
+/Users/ibacher/Documents/digi/drc/openmrs-module-drc/api/src/main/java/org/openmrs/module/drc/initializers/impl/AdminUserInitializer.java
+/Users/ibacher/Documents/digi/drc/openmrs-module-drc/api/src/main/java/org/openmrs/module/drc/initializers/impl/LocationInitializer.java

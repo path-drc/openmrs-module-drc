@@ -1,0 +1,7 @@
+org/openmrs/module/drc/initializers/impl/LocationInitializer.class
+org/openmrs/module/drc/DRCConstants.class
+org/openmrs/module/drc/initializers/DrcInitializer.class
+org/openmrs/module/drc/DRCActivator.class
+org/openmrs/module/drc/initializers/RunnableDrcInitializer.class
+org/openmrs/module/drc/initializers/impl/AdminUserInitializer.class
+org/openmrs/module/drc/initializers/BaseDrcInitializer.class
